@@ -1,6 +1,6 @@
 <div align ="center">
 <h1 align="center">Hi 👋, I'm Benson Kiai !</h1>
-<h3 align="center">A passionate Full-stack developer💻😎</h3>
+<h3 align="center">A passionate Full-Stack Developer💻😎</h3>
 
 <img alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 <br>
