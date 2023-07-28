@@ -10,9 +10,9 @@
 
 - 🔭  I’m currently looking for new opportunities
 
-- 🌱 I’m currently learning **Full-stack web development at Microverse**
+- 🌱 I’m currently learning **Full-Stack Web Development at Microverse**
 
-- 👨‍💻 All of my projects are available at [https://github.com/BenMKT](https://github.com/BenMKT)
+- 👨‍💻 All my projects are available at [https://github.com/BenMKT](https://github.com/BenMKT)
 
 - 💬 Ask me about **HTML, CSS, React, JavaScript, Ruby, Redux, and more..**
 
