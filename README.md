@@ -41,7 +41,7 @@
 
 <a href="https://github.com/BenMKT/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenMKT&langs_count=10&layout=compact" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;
 
 <a href="https://github.com/BenMKT/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BenMKT&repo=github-readme-stats" />
