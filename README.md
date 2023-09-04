@@ -42,6 +42,6 @@
 
 <p><img height=200 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenMKT&langs_count=10&layout=compact&locale=en" alt="Benson"/></p>
 
-<p>&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BenMKT&show_icons=true&locale=en&include_all_commits=true" alt="benson" /></p>
+<p>&nbsp;<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=BenMKT&show_icons=true&locale=en" alt="benson" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BenMKT&" alt="Benson" /></p>
